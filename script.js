@@ -12,27 +12,27 @@ const CONFIG = {
     manualData: {
         // INDIA
         "1493553907983585391": { name: "ExpectedDead", pfp: "https://images-ext-1.discordapp.net/external/iithUL8V3DnnvNLc9izdXLXUCWrgYBX9anbrvsKXy0k/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/705296149434597387/c248a64a134691e8dbfc71255102667f.png?format=webp&quality=lossless&width=300&height=300" },
-        "1493553909434945536": { name: "India Player 2", pfp: "" },
-        "1493553910533591070": { name: "India Player 3", pfp: "" },
-        "1493555870344548352": { name: "India Player 4", pfp: "" },
-        "1493555870725050409": { name: "India Player 5", pfp: "" },
-        "1493555874457976912": { name: "India Player 6", pfp: "" },
-        "1493555875267219487": { name: "India Player 7", pfp: "" },
-        "1493555875778920581": { name: "India Player 8", pfp: "" },
-        "1493555876622106644": { name: "India Player 9", pfp: "" },
-        "1493555877276287098": { name: "India Player 10", pfp: "" },
+        "1493553909434945536": { name: "---", pfp: "" },
+        "1493553910533591070": { name: "---", pfp: "" },
+        "1493555870344548352": { name: "---", pfp: "" },
+        "1493555870725050409": { name: "---", pfp: "" },
+        "1493555874457976912": { name: "---", pfp: "" },
+        "1493555875267219487": { name: "---", pfp: "" },
+        "1493555875778920581": { name: "---", pfp: "" },
+        "1493555876622106644": { name: "---", pfp: "" },
+        "1493555877276287098": { name: "---", pfp: "" },
 
         // NEPAL
         "1493553877289533450": { name: "DarkKnight", pfp: "https://media.discordapp.net/attachments/1493547643757137940/1497933671368233132/omg.jfif?ex=69ef52f1&is=69ee0171&hm=8db1c96137c002ca73856b11a4ade8d5870f53ad196738c4929e85dc8f4a3384&=&format=webp" },
-        "1493553884512256000": { name: "Nepal Player 2", pfp: "" },
-        "1493553889511739493": { name: "Nepal Player 3", pfp: "" },
-        "1493553892875702322": { name: "Nepal Player 4", pfp: "" },
-        "1493553896704966666": { name: "Nepal Player 5", pfp: "" },
-        "1493553899024683048": { name: "Nepal Player 6", pfp: "" },
-        "1493553899809013870": { name: "Nepal Player 7", pfp: "" },
-        "1493553901604044922": { name: "Nepal Player 8", pfp: "" },
-        "1493553902367412314": { name: "Nepal Player 9", pfp: "" },
-        "1493553903239823390": { name: "Nepal Player 10" }
+        "1493553884512256000": { name: "---", pfp: "" },
+        "1493553889511739493": { name: "---", pfp: "" },
+        "1493553892875702322": { name: "---", pfp: "" },
+        "1493553896704966666": { name: "---", pfp: "" },
+        "1493553899024683048": { name: "---", pfp: "" },
+        "1493553899809013870": { name: "---", pfp: "" },
+        "1493553901604044922": { name: "---", pfp: "" },
+        "1493553902367412314": { name: "---", pfp: "" },
+        "1493553903239823390": { name: "---" }
     },
     defaultPfp: "https://cdn.discordapp.com/embed/avatars/0.png"
 };
