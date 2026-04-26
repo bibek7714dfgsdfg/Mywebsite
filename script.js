@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 ${rank}. ${country}
             </div>
             <div class="role-tag">
-                <span class="role-dot" style="background: #5865F2"></span>
+                <span class="role-dot" style="background: #8B5CF6"></span>
                 Member
             </div>
         `;
