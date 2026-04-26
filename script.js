@@ -23,7 +23,7 @@ const CONFIG = {
         "1493555877276287098": { name: "India Player 10", pfp: "" },
 
         // NEPAL
-        "1493553877289533450": { name: "Nepal Player 1", pfp: "" },
+        "1493553877289533450": { name: "DarkKnight", pfp: "https://media.discordapp.net/attachments/1493547643757137940/1497933671368233132/omg.jfif?ex=69ef52f1&is=69ee0171&hm=8db1c96137c002ca73856b11a4ade8d5870f53ad196738c4929e85dc8f4a3384&=&format=webp" },
         "1493553884512256000": { name: "Nepal Player 2", pfp: "" },
         "1493553889511739493": { name: "Nepal Player 3", pfp: "" },
         "1493553892875702322": { name: "Nepal Player 4", pfp: "" },
