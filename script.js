@@ -11,7 +11,7 @@ const CONFIG = {
     // --- PUT NAMES AND PFP LINKS HERE ---
     manualData: {
         // INDIA
-        "1493553907983585391": { name: "ExpectedDead", pfp: "https://images-ext-1.discordapp.net/external/iithUL8V3DnnvNLc9izdXLXUCWrgYBX9anbrvsKXy0k/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/705296149434597387/c248a64a134691e8dbfc71255102667f.png?format=webp&quality=lossless&width=300&height=300" },
+        "1493553907983585391": { name: "ExpectedDead", pfp: "https://images-ext-1.discordapp.net/external/QCp6P7-cDmOiFwKQwRiHjLk2mcGxq0G4haouNv1YkEI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1353765108739866664/db960c45167d3b03c6e8242bb457a2b8.png?format=webp&quality=lossless&width=300&height=300" },
         "1493553909434945536": { name: "---", pfp: "" },
         "1493553910533591070": { name: "---", pfp: "" },
         "1493555870344548352": { name: "---", pfp: "" },
