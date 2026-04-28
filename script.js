@@ -23,7 +23,7 @@ const CONFIG = {
         "1493555877276287098": { name: "---", pfp: "" },
 
         // NEPAL
-        "1493553877289533450": { name: "DarkKnight", pfp: "https://images-ext-1.discordapp.net/external/QCp6P7-cDmOiFwKQwRiHjLk2mcGxq0G4haouNv1YkEI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1353765108739866664/db960c45167d3b03c6e8242bb457a2b8.png?format=webp&quality=lossless&width=300&height=300" },
+        "1493553877289533450": { name: "DarkKnight", pfp: "https://images-ext-1.discordapp.net/external/QCp6P7-cDmOiFwKQwRiHjLk2mcGxq0G4haouNv1YkEI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1353765108739866664/db960c45167d3b03c6e8242bb457a2b8.png?format=webp&quality=lossless" },
         "1493553884512256000": { name: "---", pfp: "" },
         "1493553889511739493": { name: "---", pfp: "" },
         "1493553892875702322": { name: "---", pfp: "" },
