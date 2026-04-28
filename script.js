@@ -11,7 +11,7 @@ const CONFIG = {
     // --- PUT NAMES AND PFP LINKS HERE ---
     manualData: {
         // INDIA
-        "1493553907983585391": { name: "ExpectedDead", pfp: "https://images-ext-1.discordapp.net/external/QCp6P7-cDmOiFwKQwRiHjLk2mcGxq0G4haouNv1YkEI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1353765108739866664/db960c45167d3b03c6e8242bb457a2b8.png?format=webp&quality=lossless&width=300&height=300" },
+        "1493553907983585391": { name: "ExpectedDead", pfp: "https://images-ext-1.discordapp.net/external/iithUL8V3DnnvNLc9izdXLXUCWrgYBX9anbrvsKXy0k/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/705296149434597387/c248a64a134691e8dbfc71255102667f.png?format=webp&quality=lossless" },
         "1493553909434945536": { name: "---", pfp: "" },
         "1493553910533591070": { name: "---", pfp: "" },
         "1493555870344548352": { name: "---", pfp: "" },
@@ -23,7 +23,7 @@ const CONFIG = {
         "1493555877276287098": { name: "---", pfp: "" },
 
         // NEPAL
-        "1493553877289533450": { name: "DarkKnight", pfp: "https://media.discordapp.net/attachments/1493547643757137940/1497933671368233132/omg.jfif?ex=69ef52f1&is=69ee0171&hm=8db1c96137c002ca73856b11a4ade8d5870f53ad196738c4929e85dc8f4a3384&=&format=webp" },
+        "1493553877289533450": { name: "DarkKnight", pfp: "https://images-ext-1.discordapp.net/external/QCp6P7-cDmOiFwKQwRiHjLk2mcGxq0G4haouNv1YkEI/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1353765108739866664/db960c45167d3b03c6e8242bb457a2b8.png?format=webp&quality=lossless&width=300&height=300" },
         "1493553884512256000": { name: "---", pfp: "" },
         "1493553889511739493": { name: "---", pfp: "" },
         "1493553892875702322": { name: "---", pfp: "" },
